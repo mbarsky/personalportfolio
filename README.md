@@ -1,5 +1,7 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+I am building a partial react app to sit on top of static HTML/CSS files. I will be using a weather API as well. More details to come soon.
+
 ## Available Scripts
 
 In the project directory, you can run:
